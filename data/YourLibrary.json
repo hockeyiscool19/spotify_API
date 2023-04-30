@@ -1,0 +1,506 @@
+{
+  "tracks": [
+    {
+      "artist": "Young Thug",
+      "album": "The London (feat. J. Cole & Travis Scott)",
+      "track": "The London (feat. J. Cole & Travis Scott)",
+      "uri": "spotify:track:7DcvwMAiqKJQD1rrdfxSDx"
+    },
+    {
+      "artist": "Quinn XCII",
+      "album": "The Story of Us",
+      "track": "Flare Guns",
+      "uri": "spotify:track:7cM9Kqto11iJpY2RwgVJSq"
+    },
+    {
+      "artist": "Quinn XCII",
+      "album": "From Michigan With Love",
+      "track": "Tough (feat. Noah Kahan)",
+      "uri": "spotify:track:3a1Zmq0P1E6W80x8EOcVNP"
+    },
+    {
+      "artist": "CNCO",
+      "album": "Primera Cita",
+      "track": "Para Enamorarte",
+      "uri": "spotify:track:3B21fRFqPLmTd9zAlK0I8A"
+    },
+    {
+      "artist": "ABBA",
+      "album": "The Album",
+      "track": "Take A Chance On Me",
+      "uri": "spotify:track:6vQN2a9QSgWcm74KEZYfDL"
+    },
+    {
+      "artist": "Neil Diamond",
+      "album": "Sweet Caroline",
+      "track": "Sweet Caroline",
+      "uri": "spotify:track:3zByVQLvdXUaDTubfWkpCk"
+    },
+    {
+      "artist": "ROSALÍA",
+      "album": "Aute Cuture",
+      "track": "Aute Cuture",
+      "uri": "spotify:track:7dQFpbs34ufIEU745DVclf"
+    },
+    {
+      "artist": "JAY-Z",
+      "album": "Vol.2... Hard Knock Life",
+      "track": "Can I Get A...",
+      "uri": "spotify:track:4LGMSdeKOUoy5Wf75Je0Hl"
+    },
+    {
+      "artist": "ROSALÍA",
+      "album": "MALAMENTE",
+      "track": "MALAMENTE - Cap.1: Augurio",
+      "uri": "spotify:track:5zOAudPQIs5U8zP6LQGHmH"
+    },
+    {
+      "artist": "Nathy Peluso",
+      "album": "Corashe",
+      "track": "Corashe",
+      "uri": "spotify:track:1VyyetfExEA6Kn5uzt2xdT"
+    },
+    {
+      "artist": "Whitney Houston",
+      "album": "Whitney",
+      "track": "I Wanna Dance with Somebody (Who Loves Me)",
+      "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "artist": "Domo Genesis",
+      "album": "Genesis",
+      "track": "Dapper (feat. Anderson .Paak)",
+      "uri": "spotify:track:2Nh2cMryoXl7BrZoIeN2Pr"
+    },
+    {
+      "artist": "Chris Dave and The Drumhedz",
+      "album": "Chris Dave And The Drumhedz",
+      "track": "Black Hole",
+      "uri": "spotify:track:20XFcmUTqrC7S7Sw2TGj5I"
+    },
+    {
+      "artist": "Childish Gambino",
+      "album": "\"Awaken, My Love!\"",
+      "track": "Redbone",
+      "uri": "spotify:track:0wXuerDYiBnERgIpbb3JBR"
+    },
+    {
+      "artist": "Radiohead",
+      "album": "Pablo Honey",
+      "track": "Creep",
+      "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "artist": "La Casa Azul",
+      "album": "El Momento",
+      "track": "El Momento",
+      "uri": "spotify:track:1l7Af2MG6UL8o618faV7fS"
+    },
+    {
+      "artist": "Tony Velour",
+      "album": "Wild",
+      "track": "Wild",
+      "uri": "spotify:track:4pptevi7kzNRgif5uN2Dw2"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "1999 WILDFIRE",
+      "track": "1999 WILDFIRE",
+      "uri": "spotify:track:1t4pPnbkOjzoA5RvsDjvUU"
+    },
+    {
+      "artist": "Jesse & Joy",
+      "album": "3 A.M.",
+      "track": "3 A.M.",
+      "uri": "spotify:track:0yyZN5ASdrYu0XYWFzfxUu"
+    },
+    {
+      "artist": "Big Sean",
+      "album": "I Decided.",
+      "track": "Bounce Back",
+      "uri": "spotify:track:0SGkqnVQo9KPytSri1H6cF"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Chance the Rapper",
+      "album": "Coloring Book",
+      "uri": "spotify:album:71QyofYesSsRMwFOTafnhB"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "uri": "spotify:album:5zi7WsKlIiUXv09tbGLKsE"
+    },
+    {
+      "artist": "The Guy Who Sings Songs About Cities & Towns",
+      "album": "Colorado State America Songs",
+      "uri": "spotify:album:7GKMDK8sThzFsLamESpB4r"
+    },
+    {
+      "artist": "Jaden",
+      "album": "ERYS",
+      "uri": "spotify:album:6cKBoHXh7dKn2gVsGniZ58"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "album": "BUBBA",
+      "uri": "spotify:album:5FQ4sOGqRWUA5wO20AwPcO"
+    },
+    {
+      "artist": "Gil Evans",
+      "album": "Sketches of Spain",
+      "uri": "spotify:album:2xyhltm9XWSQ5xok4C81BD"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "2014 Forest Hills Drive",
+      "uri": "spotify:album:0UMMIkurRUmkruZ3KGBLtG"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "uri": "spotify:album:5fPglEDz9YEwRgbLRvhCZy"
+    },
+    {
+      "artist": "Daft Punk",
+      "album": "TRON: Legacy - The Complete Edition",
+      "uri": "spotify:album:3AMXFnwHWXCvNr5NCCpLZI"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "Acid Rap",
+      "uri": "spotify:album:2VBcztE58pBKjIDS5oEgFh"
+    },
+    {
+      "artist": "Grateful Dead",
+      "album": "Aoxomoxoa",
+      "uri": "spotify:album:05RQvmOFKMA6YMZByVZN0Z"
+    },
+    {
+      "artist": "Grateful Dead",
+      "album": "American Beauty",
+      "uri": "spotify:album:2UDDZVesmQwA4aYfa55diS"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Bienvenido a la vida peligrosa",
+      "publisher": "Podium Podcast",
+      "uri": "spotify:show:4rdKH61aWqbNsZNp4yDg15"
+    },
+    {
+      "name": "LO QUE TÚ DIGAS con Álex Fidalgo",
+      "publisher": "Podium Podcast",
+      "uri": "spotify:show:444LwT3wHRyVZb6alkDc4c"
+    },
+    {
+      "name": "Practica La Psicología Positiva",
+      "publisher": "IEPP",
+      "uri": "spotify:show:7yxNkZufSfzCSfFlBEkStf"
+    },
+    {
+      "name": "Radio Ambulante",
+      "publisher": "NPR",
+      "uri": "spotify:show:0J74zdNxUVWHq4gLoq8MqX"
+    },
+    {
+      "name": "Sensiblemente",
+      "publisher": "Sensiblemente",
+      "uri": "spotify:show:49PP5L6zmmrfWK2r83GCid"
+    },
+    {
+      "name": "Stuff You Should Know",
+      "publisher": "iHeartPodcasts",
+      "uri": "spotify:show:0ofXAdFIQQRsCYj9754UFx"
+    },
+    {
+      "name": "TED en Español",
+      "publisher": "TED",
+      "uri": "spotify:show:524qliZmwyXLOClyk8gV9T"
+    }
+  ],
+  "episodes": [
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 6/20. Gabriel García Márquez. Audiolibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:5DvQAt8fVvhyxUwKWrGJyN"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 10/20. Gabriel García Márquez. Audiolibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:6x2IqxCGW7MS8Ynd6h2i4y"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 4/20. Gabriel García Márquez. Audiolibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:7yfx6D0JeHUy7Ub696vPQW"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. GABRIEL GARCÍA MÁRQUEZ. Preliminares",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:5DOyfHFRbR5YXj9aUhDOKm"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 1/20. GABRIEL GARCÍA MÁRQUEZ.",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:2eo4Xn949LWKQhfCrtgfG1"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 2/20. Gabriel García Márquez. Audiolibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:13y9YMPtBC3UPhfLeHtg7N"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 5/20. Gabriel García Márquez. Audilibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:3cFAcjLJs2VUeaiPtTAGR9"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 7/20. Gabriel García Márquez. Audiolibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:7jP69Y5nHK8DiUMNahb6Yn"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 8/20. Gabriel García Márquez. Audiolibro",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:0xdhsURDmBKY8CO2CWgPgD"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 3/20. Gabriel García Márquez.",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:48sEaFqzOl7slL5ifkoqPK"
+    },
+    {
+      "name": "CIEN AÑOS DE SOLEDAD. Parte 9/20. Gabriel García Márquez. Audiolibro.",
+      "show": "Lucho Lee, Lee Lucho",
+      "uri": "spotify:episode:1mjSIWr7MQHE4idxVocDjE"
+    },
+    {
+      "name": "#192 – Charles Hoskinson: Cardano",
+      "show": "Lex Fridman Podcast",
+      "uri": "spotify:episode:3vYhWGiSy7WoY4KQzt0JVw"
+    },
+    {
+      "name": "#194 – Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic",
+      "show": "Lex Fridman Podcast",
+      "uri": "spotify:episode:6KGPUrJeYfwzZXPeFJaXHl"
+    },
+    {
+      "name": "#190 – Jordan Ellenberg: Mathematics of High-Dimensional Shapes and Geometries",
+      "show": "Lex Fridman Podcast",
+      "uri": "spotify:episode:7tm6gwUcBlccgrcKMYsxFi"
+    },
+    {
+      "name": "#195 – Clara Sousa-Silva: Searching for Signs of Life on Venus and Other Planets",
+      "show": "Lex Fridman Podcast",
+      "uri": "spotify:episode:2G6rzTEdkIKMlmLMm2B35x"
+    },
+    {
+      "name": "En el fin del mundo",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:4MIlIcEHJCjdNxxBh7Odgg"
+    },
+    {
+      "name": "Álbum de familia",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:0eUNlIoc5bMDTccCNmFPIY"
+    },
+    {
+      "name": "Noches de karaoke [repeat]",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:6pstpkIPZIuzdaad6bTfK9"
+    },
+    {
+      "name": "Mazinger Z salva a Venezuela",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:4sUmp06wi6MeIkFnFUL5SB"
+    },
+    {
+      "name": "Las madres del desierto",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:6CLjLumDxE887UIeYWulRy"
+    },
+    {
+      "name": "La sala que era un cerebro",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:17dv61rU1O3AcT0U5hr459"
+    },
+    {
+      "name": "Cómo despedirse de un glaciar [El hilo]",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:5wSBnfvEbRq1448KPh0nCh"
+    },
+    {
+      "name": "Chanchocracia",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:6unnHZexJqAmJrKIrkTAwU"
+    },
+    {
+      "name": "La búsqueda",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:2NOZL7bnixQyxFq1NTotPX"
+    },
+    {
+      "name": "Postal de San Francisco",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:4g7jin6Vwgl4WVyAkg8QLp"
+    },
+    {
+      "name": "Los aeropiratas",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:0yWKbiIVOQNtf5HVKVT12s"
+    },
+    {
+      "name": "La mutación paisa",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:6uamjijQjkEfN0xCY9J3DQ"
+    },
+    {
+      "name": "Esa maldita ida allá",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:58tgSplkRjIuNMFznGGduU"
+    },
+    {
+      "name": "Caravana de la desinformación [El hilo]",
+      "show": "Radio Ambulante",
+      "uri": "spotify:episode:6QHsXnjROVkqnb8zhsXpBF"
+    },
+    {
+      "name": "Argentina, 20 años del corralito y la crisis interminable",
+      "show": "El hilo",
+      "uri": "spotify:episode:5htUdfiTWP7fHM6lLT2q0e"
+    },
+    {
+      "name": "Los gigantes del lago [Radio Ambulante]",
+      "show": "El hilo",
+      "uri": "spotify:episode:4J17ZkH0f0puRdD5lkvmRd"
+    },
+    {
+      "name": "Lorena, mi mamá y yo [Radio Ambulante]",
+      "show": "El hilo",
+      "uri": "spotify:episode:4rUtxIlJwa1FgmooEPIRup"
+    },
+    {
+      "name": "#158: Eudald Carbonell - Sucedió en 2020",
+      "show": "LO QUE TÚ DIGAS con Álex Fidalgo",
+      "uri": "spotify:episode:2MllFtGvRvlN6P0xdxJekb"
+    },
+    {
+      "name": "#157: Ana Cecilia Stieglitz- Dentro de la secta NXIVM",
+      "show": "LO QUE TÚ DIGAS con Álex Fidalgo",
+      "uri": "spotify:episode:4NtyiSuKJGt54s36o8Q0Tp"
+    },
+    {
+      "name": "#156: Hovik Keuchkerian - Un poeta en un ring",
+      "show": "LO QUE TÚ DIGAS con Álex Fidalgo",
+      "uri": "spotify:episode:3qfdwazrkI1X8KzDcUbBUu"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 4. ",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:6P2sDQSmcP8Qn4cXqoxSFt"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 3.",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:5fRbdP29UQttQltNTdzEQI"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 2",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:4ckAyg6gPu1b8l3P81bW9E"
+    },
+    {
+      "name": "Semblanza de Gabriel García Márquez ",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:2Q3N7aCVqcp5qglQkNDQ8G"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 6",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:68gPCM1E3tGluQJFZzSuSo"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 10",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:2Ow23gZKzQNmeY4PnpILsX"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 5. Audiolibro",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:6mjZ0DmHsaJBo84Oe4o4oq"
+    },
+    {
+      "name": "¿Cuál es su hobby? Gabriel García Márquez ",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:42r0AT4bZipTF7UpLtKEtL"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 7",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:5RmUdLYZgsBi1zhgroytgI"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 9",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:60sTXFKpuiEAyOe4K6OLlr"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 1 Audiolibro . ",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:5lVkFdt0pfc7ZzEwawXF31"
+    },
+    {
+      "name": "Cien años de soledad. Capítulo 8",
+      "show": "La Era De La Desinformación ",
+      "uri": "spotify:episode:482DN2WrkcPBd4UYnfbbno"
+    },
+    {
+      "name": "#1671 - Bret Weinstein & Dr. Pierre Kory",
+      "show": "The Joe Rogan Experience",
+      "uri": "spotify:episode:7uVXKgE6eLJKMXkETwcw0D"
+    },
+    {
+      "name": "¿Podemos mejorar nuestros hábitos? | Ramón Nogueras",
+      "show": "TED en Español",
+      "uri": "spotify:episode:14OaI8DzTTHbyUmXrJyK0r"
+    },
+    {
+      "name": "Unir sociedades a través de las historias | Jose Luis Gallego",
+      "show": "TED en Español",
+      "uri": "spotify:episode:4bu7r91KNgbCQ5b0iEnuz1"
+    },
+    {
+      "name": "Autonomía para aprender | Melina Furman",
+      "show": "TED en Español",
+      "uri": "spotify:episode:2PKW00iIjQR9JtKNbTw8jJ"
+    },
+    {
+      "name": "¿En qué idioma pelearnos con nuestra pareja? | Albert Costa",
+      "show": "TED en Español",
+      "uri": "spotify:episode:57bi8XgfvqpHkAv7t6vGN3"
+    },
+    {
+      "name": "La selva es nuestra casa | Nemonte Nenquimo",
+      "show": "TED en Español",
+      "uri": "spotify:episode:73KR5fe5XCNWeH6pOr1cdu"
+    }
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "JAY-Z",
+      "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    },
+    {
+      "name": "Sofy C.S",
+      "uri": "spotify:artist:4ggSZdurQhT0WNrUdbE4MT"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
