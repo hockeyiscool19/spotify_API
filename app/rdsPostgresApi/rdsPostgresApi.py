@@ -2,21 +2,9 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 import os
 
-# Database connection parameters
-# Replace with your RDS endpoint
-host = 'spotify.coacb9cwipmh.us-east-1.rds.amazonaws.com'
-port = '5432'              # Replace with your RDS port
-database = 'postgres'  # Replace with your database name
-user = 'postgres'     # Replace with your database username
-password = '4Hockeyiscold*'  # Replace with your database password
-
 
 class RdsConnect:
-    def __init__(self, host=host, database=database, user=user, password=password):
-        self.host = host
-        self.database = database
-        self.user = user
-
+    def __init__(self):
         conn_string = os.system("POSTGRES_URI")
         self.engine = create_engine(conn_string)
         self.conn = self.engine.connect()
