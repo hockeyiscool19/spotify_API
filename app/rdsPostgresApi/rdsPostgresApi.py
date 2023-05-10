@@ -1,6 +1,6 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
-
+import os
 
 # Database connection parameters
 # Replace with your RDS endpoint
@@ -17,7 +17,7 @@ class RdsConnect:
         self.database = database
         self.user = user
 
-        conn_string = f'postgresql://{user}:{password}@{host}:{port}/{database}'
+        conn_string = os.system("POSTGRES_URI")
         self.engine = create_engine(conn_string)
         self.conn = self.engine.connect()
 
