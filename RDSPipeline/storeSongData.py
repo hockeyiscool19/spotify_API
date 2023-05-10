@@ -13,6 +13,7 @@ port = '5432'
 database = 'postgres'
 user = 'postgres'
 password = '4Hockeyiscold*'
+uri = f'postgresql://{user}:{password}@{host}:{port}/{database}'
 
 
 class RdsConnect:
