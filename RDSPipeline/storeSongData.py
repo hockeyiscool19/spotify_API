@@ -174,3 +174,5 @@ def main():
 
     rds.end()
 
+if __name__ == '__main__':
+    main()
