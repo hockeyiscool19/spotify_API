@@ -173,6 +173,7 @@ def main():
     rds.write_df(top_tracks, "public", "top_tracks", "replace")
 
     rds.end()
+   
 
-if __name__ == '__main__':
+if __name__=="__main__":
     main()
