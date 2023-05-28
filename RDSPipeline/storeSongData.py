@@ -96,3 +96,81 @@ def extract_top_artists(sp=sp):
         artist_df = pd.DataFrame({'artist_name': [artist_name], 'artist_popularity': [
                                  artist_popularity], 'artist_images': [artist_images], 'artist_genres': [artist_genres]})
         top_artists
+
+        
+def extract_top_artists(sp=sp):
+    top_artists = sp.current_user_top_artists()
+    top_artists_df = pd.DataFrame()
+    for artist in top_artists['items']:
+        artist_name = artist['name']
+        artist_popularity = artist['popularity']
+        artist_images = artist['images']
+        artist_genres = artist['genres']
+        artist_df = pd.DataFrame({'artist_name': [artist_name], 'artist_popularity': [
+                                 artist_popularity], 'artist_images': [artist_images], 'artist_genres': [artist_genres]})
+        top_artists_df = top_artists_df.append(artist_df)
+
+    top_artists_df['image_url'] = top_artists_df["artist_images"].apply(
+        lambda x: x[0]['url'])
+    top_artists_df = top_artists_df.drop(columns=['artist_images'])
+
+    return top_artists_df
+
+
+def extract_top_tracks(sp=sp):
+    top_tracks = sp.current_user_top_tracks()
+    top_tracks_df = pd.DataFrame()
+    for track in top_tracks['items']:
+        track_name = track['name']
+        artist_name = track['artists'][0]['name']
+        album_name = track['album']['name']
+        popularity = track['popularity']
+        images = track['album']['images']
+        uri = track['uri']
+        track_number = track['track_number']
+        track_df = pd.DataFrame({'track_name': [track_name], 'artist_name': [artist_name], 'album_name': [
+                                album_name], 'popularity': [popularity], 'images': [images], 'uri': [uri], 'track_number': [track_number]})
+        top_tracks_df = top_tracks_df.append(track_df)
+
+    top_tracks_df['audio_features'] = top_tracks_df['uri'].apply(
+        lambda x: sp.audio_features(x))
+    top_tracks_df['danceability'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['danceability'])
+    top_tracks_df['energy'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['energy'])
+    top_tracks_df['key'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['key'])
+    top_tracks_df['loudness'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['loudness'])
+    top_tracks_df['mode'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['mode'])
+    top_tracks_df['speechiness'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['speechiness'])
+    top_tracks_df['acousticness'] = top_tracks_df['audio_features'].apply(
+        lambda x: x[0]['acousticness'])
+    top_tracks_df['image_url'] = top_tracks_df['images'].apply(
+        lambda x: x[0]['url'])
+    top_tracks_df.drop(columns=['images'], inplace=True)
+    top_tracks_df.drop(columns=['audio_features'], inplace=True)
+    return top_tracks_df
+
+
+def main():
+    playlist = formatPlaylist()
+    streaming_history = formatStreamingHistory()
+    lib = formatLibrary()
+
+    top_artists = extract_top_artists()
+    top_tracks = extract_top_tracks()
+
+    rds = RdsConnect()
+
+    rds.write_df(playlist, "public", "playlists", "replace")
+    rds.write_df(lib, "public", "library", "replace")
+    rds.write_df(streaming_history, "public", "streaming_history", "replace")
+
+    rds.write_df(top_artists, "public", "top_artists", "replace")
+    rds.write_df(top_tracks, "public", "top_tracks", "replace")
+
+    rds.end()
+
