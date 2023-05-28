@@ -12,4 +12,4 @@ C) The app folder includes an __init__.py file which includes database connectio
 curl -Uri "http://localhost:5000/"
 ```
 
-In sum, this project is relatively simple, but it includes a variety of components: knowledge of AWS, databases, Flask, existing APIs, API development, Github Actions, and Github Secrets.
+In sum, this project is relatively simple, but it includes a variety of components: this project combines previous knowledge of data engineering with API design, backend engineering. It also incorporate knowledge of Flask, use of existing APIs, and Github Secrets. 
