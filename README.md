@@ -4,9 +4,9 @@ This Spotify Flask API is pretty simple: 1) This repository takes data from the 
 
 A tour through this repository:
 
-A) The Folder RDSPipeline includes a pre-mde API which connects Python to AWS RDS from existing CSVs found in data and from API calls using Spotipy
+A) The folder RDSPipeline includes a pre-mde API which connects Python to AWS RDS from existing CSVs found in data and from API calls using Spotipy
 B) The folder called "data" includes CSVs provided by Spotify via email.
-C) The App folder includes an __init__.py file which includes database connections and defines routes for the API, exposing endpoints from AWS. The schema of the database is very simple, since it only includes 5 tables. The API works via localhost, using a simple webrequest:
+C) The app folder includes an __init__.py file which includes database connections and defines routes for the API, exposing endpoints from AWS. The schema of the database is very simple, since it only includes 5 tables, all in one schema. The API works via localhost, using a simple webrequest:
 
 ```
 curl -Uri "http://localhost:5000/"
