@@ -19,3 +19,4 @@ class RdsConnect:
 
     def end(self):
         self.conn.close()
+
